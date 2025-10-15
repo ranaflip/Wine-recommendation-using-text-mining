@@ -1,4 +1,5 @@
 🍷 A Taste of French Wine: Text Mining and Recommendation System
+
 🌟 Project Overview
 This project explores a dataset of over 130 thousand wine reviews sourced from Wine Enthusiast to analyze the characteristics and regional origins of French wines. It combines Text Mining, advanced Aroma Analysis, and Machine Learning classification to provide insights into consumer preferences and build a unique content-based recommendation system.
 
